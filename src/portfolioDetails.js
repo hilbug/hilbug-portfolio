@@ -32,6 +32,16 @@ export const portDetails = [
         "component": Project
     },
     {
+        "title": "Google Books Search",
+        "description": "Search for books using the Google Books API and save books to reference later.",
+        "appLink": "https://thawing-dawn-74077.herokuapp.com/",
+        "codeLink": "https://github.com/hilbug/21-google-books-search",
+        "tech": "React, React Router, Bootstrap, React Bootstrap, JavaScript, Express, Axios, Mongoose, MongoDB Atlas, Heroku, Nodemon",
+        "imgUrl": "./assets/images/googlebooks.png",
+        "imgAlt": "Google Books Search Screenshot",
+        "component": Project
+    },
+    {
         "title": "Workout Tracker",
         "description": "An app in which users can create a new workout for the day or update the previous day's workout and see their progress charted over time.",
         "appLink": "https://young-reef-00567.herokuapp.com/",
