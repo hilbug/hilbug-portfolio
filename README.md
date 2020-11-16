@@ -1,7 +1,7 @@
 # Meet Hilary. portfolio home page
 
 ## Description
-Repository for my portfolio webpage: https://hilbug.github.io/
+Repository for my portfolio webpage: https://hilary-ferraro.herokuapp.com/
 
 Includes the following:
 - Contact links: GitHub, LinkedIn, Email
