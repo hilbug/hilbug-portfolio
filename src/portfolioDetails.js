@@ -12,6 +12,16 @@ export const portDetails = [
         "component": Project
     },
     {
+        "title": "ConnectChore",
+        "description": "A collaborative project in which we created an app to manage a household's to-do list and incentivize with rewards.",
+        "appLink": "https://connectchore.herokuapp.com/",
+        "codeLink": "https://github.com/hilbug/ConnectChore",
+        "tech": "Technologies: React, React Router, Redux, Bootstrap, React-Bootstrap, React-Datepicker, React-Scroll, JavaScript, Express, Passport-jwt, Axios, Mongoose, MongoDB Atlas",
+        "imgUrl": "./assets/images/CC-Logo-LI.png",
+        "imgAlt": "ConnectChore Logo",
+        "component": Project
+    },
+    {
         "title": "Adults Only Petfinder",
         "description": "A collaborative project in which we created a comedic (and a bit risque) app to match you with a pet profile if you are over 18.",
         "appLink": "https://hilbug.github.io/adults-pet-finder/",
@@ -36,7 +46,7 @@ export const portDetails = [
         "description": "Search for books using the Google Books API and save books to reference later.",
         "appLink": "https://thawing-dawn-74077.herokuapp.com/",
         "codeLink": "https://github.com/hilbug/21-google-books-search",
-        "tech": "React, React Router, Bootstrap, React Bootstrap, JavaScript, Express, Axios, Mongoose, MongoDB Atlas, Heroku, Nodemon",
+        "tech": "React, React Router, Bootstrap, React-Bootstrap, JavaScript, Express, Axios, Mongoose, MongoDB Atlas, Heroku, Nodemon",
         "imgUrl": "./assets/images/googlebooks.png",
         "imgAlt": "Google Books Search Screenshot",
         "component": Project
