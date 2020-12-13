@@ -6,7 +6,7 @@ export const portDetails = [
         "description": "A collaborative project in which we created a team-building app geared towards a remote workforce.",
         "appLink": "https://the-team-builder.herokuapp.com/",
         "codeLink": "https://github.com/hilbug/the-team-builders",
-        "tech": "Technologies: HTML, CSS, jQuery, MySQL, Sequelize, ExpressJS, Express Handlebars, Axios, Auth0",
+        "tech": "HTML, CSS, jQuery, MySQL, Sequelize, ExpressJS, Express Handlebars, Axios, Auth0",
         "imgUrl": "./assets/images/teambuilder_logo.png",
         "imgAlt": "Team Builder Logo",
         "component": Project
@@ -16,7 +16,7 @@ export const portDetails = [
         "description": "A collaborative project in which we created an app to manage a household's to-do list and incentivize with rewards.",
         "appLink": "https://connectchore.herokuapp.com/",
         "codeLink": "https://github.com/hilbug/ConnectChore",
-        "tech": "Technologies: React, React Router, Redux, Bootstrap, React-Bootstrap, React-Datepicker, React-Scroll, JavaScript, Express, Passport-jwt, Axios, Mongoose, MongoDB Atlas",
+        "tech": "React, React Router, Redux, Bootstrap, React-Bootstrap, React-Datepicker, React-Scroll, JavaScript, Express, Passport-jwt, Axios, Mongoose, MongoDB Atlas",
         "imgUrl": "./assets/images/CC-Logo-LI.png",
         "imgAlt": "ConnectChore Logo",
         "component": Project
